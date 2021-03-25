@@ -8,7 +8,7 @@
 <body>
   <header style='padding:20;'>
     <a href=http://steccom.ru style="float:left; margin-right: 50;"> <img src='http://card2.steccom.ru/img/login_logo.svg' width=120 height=50> </a>
-    <h2>STECCOM.RU карточная платформа</h2>
+    <h2>карточная платформа index.md</h2>
     <p>
   </header>
   <div id='menu' style='padding:20; float:left;'>
