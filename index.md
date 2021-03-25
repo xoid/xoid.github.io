@@ -1,0 +1,32 @@
+
+<html>
+  <head>
+      <title>
+        452 руб. STECCOM.RU карточная платформа
+      </title>
+  </head>
+<body>
+  <header style='padding:20;'>
+    <a href=http://steccom.ru style="float:left; margin-right: 50;"> <img src='http://card2.steccom.ru/img/login_logo.svg' width=120 height=50> </a>
+    <h2>STECCOM.RU карточная платформа</h2>
+    <p>
+  </header>
+  <div id='menu' style='padding:20; float:left;'>
+	<p>
+    <a href='lk_card?session_id=<TMPL_VAR NAME=SESSION_ID>&action=logout'   >Выйти из интернет</a>
+        <p>
+  </div>
+
+  <div id='content' style='padding: 20; float: none;'>
+     Обновляйте страницу для отображения актуальной статистики.
+     Обязательно используйте пункт меню слева "Выйти из интернет"
+     для завершения/приостановления Вашего сеанса работы в Интернет.
+     <p>
+     Баланс вашей карты: 452 руб.
+  </div>
+  <footer style='padding: 20; float: none;'>
+    footer
+  </footer>
+</body>
+</html>
+
