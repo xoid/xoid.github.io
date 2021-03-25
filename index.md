@@ -2,7 +2,7 @@
 <html>
   <head>
       <title>
-        452 руб. STECCOM.RU карточная платформа
+        Github page карточная платформа
       </title>
   </head>
 <body>
